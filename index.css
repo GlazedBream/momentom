@@ -74,7 +74,7 @@ li {
 
 .divPending, .divFinished {
 	float: left;
-	width: 40%;
+	width: 50%;
 }
 
 
@@ -83,7 +83,5 @@ li {
 }
 
 .divPending {
-	margin-left: 10%;
-	margin-right: 5%;
 	border-right: 1px white dashed;
 }
