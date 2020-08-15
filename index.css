@@ -85,4 +85,5 @@ li {
 .divPending {
 	margin-left: 10%;
 	margin-right: 5%;
+	border-right: 1px white dashed;
 }
